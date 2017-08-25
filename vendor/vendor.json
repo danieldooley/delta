@@ -3,10 +3,10 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "sZSeW3Dc6lUqm1CzMUdu3poimoA=",
+			"checksumSHA1": "kBeNcaKk56FguvPSUCEaH6AxpRc=",
 			"path": "github.com/golang/protobuf/proto",
-			"revision": "1f49d83d9aa00e6ce4fc8258c71cc7786aec968a",
-			"revisionTime": "2016-08-24T20:12:15Z"
+			"revision": "18c9bb3261723cd5401db4d0c9fbc5c3b6c70fe8",
+			"revisionTime": "2017-04-27T21:32:20Z"
 		},
 		{
 			"checksumSHA1": "GoEtguzRyXdK8vyOEKFLynWOIcM=",
